@@ -1,0 +1,1 @@
+Array is a special variable that can store many variables (elements) of the same data type

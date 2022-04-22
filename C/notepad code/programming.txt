@@ -1,0 +1,72 @@
+we are learning c programming
+char str[]="I lovE YoU";
+printf("%s",strlwr(str));
+printf("%s",strupr(str));
+bye goodnight my computer and my program see you tommorrow
+hello world and programming 
+hi what is your name?
+My name is john 
+how are you today ?
+I am find, and you?
+what is your favorite color?
+My favorite color is black and blue 
+what will you learn after this time?
+sometime I think about with you 
+what on your my head?
+how are you today?
+I never 
+you are not allowed to vote!!
+you allowed to vote
+now I want to learn english with teacher in youtube
+what we will learn in next season
+maybe we going to learn about pratice with pointer 
+how to learn programming to easy to use
+%p is the kind of variable to show address but the show is kol16
+calling function calling function calling function 
+calling function calling calling function favorite color drama elephants elephants 
+hello crush i love you bebe
+hello world enter the number 
+please input the number 
+Your input is everyday i will learn myself and pratice with pointer is the kind of c programming that can store only address but 
+it cannot store value the structure to pointer is 1 we use simple like print a for addres of pointer and *a is the catch value to
+from another variable and before get the pointer value we need to write like pointer 
+int *a;
+int num;
+printf("enter the numnber of num");scanf("%d",&num);
+we need to => num=&a
+printf("The pointer value is %d ",*a);
+stay In you got that your got that i got this and are we say hi spent my day 
+hi world what is your job ? yeah hi my job is run around the sum 
+how to get benefit from your job bro ?
+Number of array in c programming 
+what is c programming ?
+why we need to learn this language? 
+because It is a basic for start learn everything in information technology 
+the lesson in c programming that we will learn and this is the best basic have like that 
+1. condition 
+2. loop 
+3. array 
+4. function 
+5. pointer
+this is the best basic to catch information technology skill and all programming language is this the very same c 
+the place that different is syntax or keyword but still need condition loop arrays function pointer and etc
+like the c programming too 
+the plan for 2022 have :
+how to typing faster than before we need to pratice everyday and learn typing in pc because if we pratice everyday we will
+become to a professional typing that we can get the 60 word per second this is the high level for typing 
+no class today because I busy to corretion bac II
+no class today because I bust to corretion bac II
+try is the best for programming learning 
+how to solve the green srceen problem
+
+
+
+
+
+
+
+
+
+
+
+
